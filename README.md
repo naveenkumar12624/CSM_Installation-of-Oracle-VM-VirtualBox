@@ -43,7 +43,7 @@ To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a 
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/e9017367-e447-4cf5-ba5c-f5f54db3ff05)
+<img src="https://github.com/user-attachments/assets/e9017367-e447-4cf5-ba5c-f5f54db3ff05" width="500">
 
 
 ## Result: 
